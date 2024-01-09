@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicElettrico
 - 👀 I’m interested in electrical engineer
-- 🌱 I’m currently learning automation (PLC)
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on automation project or energy project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
